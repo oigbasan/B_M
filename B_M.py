@@ -9,3 +9,9 @@ print("bread products")
 print("list of bread products")
 """
 solve some equations """
+
+""" bug"""
+
+bug = "fixed"
+print(bug)
+
